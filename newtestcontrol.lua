@@ -4,9 +4,8 @@ end
 if status == true then
    status = false
    print("Working")
-else
-   print(status)
 end
+wait(3)
    if status == false then
     while true do
    print("hi")
