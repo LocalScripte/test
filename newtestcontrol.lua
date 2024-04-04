@@ -1,6 +1,7 @@
-print("Whitelist 1.0")
+
 status = "disabled"
 repeat
+  print("status check!)
   loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
    if status == "disabled" then
       while true do
