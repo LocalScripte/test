@@ -1,4 +1,7 @@
+if status = nil then
 status = false
+end
+status = true
 repeat
    if status == false then
     while true do
