@@ -1,4 +1,4 @@
-status= false
+status = false
 crash = 1
 repeat
   print("status check!")
