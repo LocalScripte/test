@@ -1,9 +1,10 @@
 status = false
 crash = 1
 repeat
-  print("status check!")
    if status == false then
     crash= 0
+  else
+    print(status)
    end
   loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
   wait(crash)
