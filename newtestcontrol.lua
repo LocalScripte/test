@@ -3,6 +3,7 @@ status = true
 end
 if status == true then
    status = false
+   print("Working")
 end
 repeat
    if status == false then
