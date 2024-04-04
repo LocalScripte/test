@@ -4,8 +4,9 @@ repeat
    if status == false then
       while true do
           print("Hi")
-      end
+    end
+  else
+    wait(1)
    end
   loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
-wait(1)
 until false
