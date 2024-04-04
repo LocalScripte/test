@@ -1,8 +1,7 @@
-if status = nil then
+if status == nil then
 status = true
 end
-if status = true then
-   status = false
+if status == true then
 end
 repeat
    if status == false then
