@@ -1,5 +1,5 @@
 repeat
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
    if status == disabled then
       while true do
           print("Hi")
