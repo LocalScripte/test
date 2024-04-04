@@ -1,1 +1,5 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol"))()
+wait(2)
+print("Hello")
+wait(4)
+print("cute girls better!")
