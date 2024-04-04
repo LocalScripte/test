@@ -2,6 +2,7 @@ if status == nil then
 status = true
 end
 if status == true then
+   status = false
 end
    if status == false then
     while true do
