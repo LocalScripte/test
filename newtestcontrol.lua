@@ -1,3 +1,4 @@
+print("Whitelist 1.0")
 repeat
   loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
    if status == disabled then
