@@ -1,9 +1,9 @@
 
-status = "disabled"
+status = false
 repeat
   print("status check!)
   loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScripte/test/main/newtestcontrol.lua"))()
-   if status == "disabled" then
+   if status == false then
       while true do
           print("Hi")
       end
