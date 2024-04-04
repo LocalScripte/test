@@ -1,4 +1,4 @@
-status = working
+status = false
 repeat
    if status == false then
     while true do
