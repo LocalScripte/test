@@ -1,4 +1,4 @@
-status = false
+status = true
 repeat
   print("status check!")
    if status == false then
