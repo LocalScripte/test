@@ -3,6 +3,7 @@ status = true
 end
 if status == true then
    status = false
+   wait(0.00001)
    print("Working")
 end
 wait(3)
